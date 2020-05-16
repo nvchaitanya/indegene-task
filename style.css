@@ -1,0 +1,42 @@
+.header-nav{
+    display:flex;
+    padding:4px 6rem;
+}
+.social-media{
+    display:flex;
+    position:absolute;
+    right:18rem;
+}
+.social-media div{
+    padding:20px;
+    background-color:#d8a66b;
+    border-radius:50%;
+    margin:2px;
+}
+.social-media i{
+    color:white;
+    font-size:20px;
+}
+.menu-bar{
+    display:flex;
+    position:absolute;
+    right:10rem;
+}
+.menu h2{
+    text-decoration:none;
+    color:grey;
+}
+.menu-bar i{
+    padding-top:22px;
+    margin-left:10px;
+    font-size:20px;
+}
+.enterprise-marketing{
+    background-color:rgb(191,191,191);
+    text-align:center;
+    
+}
+.enterprise-marketing h1{
+    padding:13% 0% 0%; 
+    font-size:50px;
+}
